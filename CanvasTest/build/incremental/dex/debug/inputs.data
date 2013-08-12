@@ -1,0 +1,16 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1376322825000 403 5a7cff5e41a08217b25277cadf2c91d0dbbe0ceb /Users/demouser/AndroidStudioProjects/CanvasTestProject/CanvasTest/build/classes/debug/uk/co/scottw/convastest/R$menu.class
+1376324410000 1272 5c7789a60802dd1b1f70403931a37719a67acc52 /Users/demouser/AndroidStudioProjects/CanvasTestProject/CanvasTest/build/classes/debug/uk/co/scottw/convastest/MainActivity.class
+1376322825000 446 be0550d82a6abcd450964934ccd444c57b171afe /Users/demouser/AndroidStudioProjects/CanvasTestProject/CanvasTest/build/classes/debug/uk/co/scottw/convastest/R$style.class
+1376322825000 418 d5df6a1d91f8a957dedcd4a0977ad8b201faf083 /Users/demouser/AndroidStudioProjects/CanvasTestProject/CanvasTest/build/classes/debug/uk/co/scottw/convastest/R$layout.class
+1376322825000 487 a7cb1752486a4fbd2bf466c8d39aa1aaefe68560 /Users/demouser/AndroidStudioProjects/CanvasTestProject/CanvasTest/build/classes/debug/uk/co/scottw/convastest/R$string.class
+1376322825000 408 3fd6e4281a5fc70546dd1a9729791d7e0226fd40 /Users/demouser/AndroidStudioProjects/CanvasTestProject/CanvasTest/build/classes/debug/uk/co/scottw/convastest/R$id.class
+1376322825000 355 2fbe2f3a026caae6435f8ccc0ed69403f0f5f26c /Users/demouser/AndroidStudioProjects/CanvasTestProject/CanvasTest/build/classes/debug/uk/co/scottw/convastest/BuildConfig.class
+1376322825000 727 fe7465acedafe51044b097f87276e54eb19a50af /Users/demouser/AndroidStudioProjects/CanvasTestProject/CanvasTest/build/classes/debug/uk/co/scottw/convastest/R.class
+1376322825000 355 9db751fe720440104c0375eca4df16367a2f98f6 /Users/demouser/AndroidStudioProjects/CanvasTestProject/CanvasTest/build/classes/debug/uk/co/scottw/convastest/R$attr.class
+1375279198000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /Applications/Android Studio.app/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1376322825000 422 caf667671896737e1d144098893878ee16c271d0 /Users/demouser/AndroidStudioProjects/CanvasTestProject/CanvasTest/build/classes/debug/uk/co/scottw/convastest/R$drawable.class
+1376322825000 476 5128ee081a2b0990d3df466df177ef361ffe8add /Users/demouser/AndroidStudioProjects/CanvasTestProject/CanvasTest/build/classes/debug/uk/co/scottw/convastest/R$dimen.class
+1376338588000 2573 5867aa182f6796eb0ef64b4f4199f243d22b7f6f /Users/demouser/AndroidStudioProjects/CanvasTestProject/CanvasTest/build/classes/debug/uk/co/scottw/convastest/DrawView.class
